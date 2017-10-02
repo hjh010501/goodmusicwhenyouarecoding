@@ -1,2 +1,8 @@
-# goodmusicwhenyouarecoding
-코딩할때 듣기 좋은 노래 모음 ㅎ.ㅎ | The good music when you are coding lol
+## 목차
+  
+- [국내노래]
+- [외국노래]
+
+## 국내노래
+
+https://www.youtube.com/watch?v=YR9Ys5tQYlk
